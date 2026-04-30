@@ -1,4 +1,9 @@
 # 👋 Hi! I'm Cipriano Rivera Escobar
+## 🎓 About Me
+
+* 🎓 Estudiante en **Universidad Nacional de Costa Rica (UNA)**
+* 📍 Costa Rica
+* 💻 Ingeniería en Sistemas
 
 ---
 
